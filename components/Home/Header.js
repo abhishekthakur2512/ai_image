@@ -9,7 +9,6 @@ export default function Header() {
     </View>
   );
 }
-
 const styles = StyleSheet.create({
   header: {
     alignItems: 'center',
